@@ -6,7 +6,7 @@ An interactive HR Analytics dashboard designed to evaluate salary distributions,
 
 ## 📌 Project Overview
 
-This project provides a comprehensive data-driven view of organizational compensation at **Tamweel Mortgage**. The dashboard enables HR leaders, compensation specialists, and business executives to analyze salary parity, evaluate geographic pay variations, examine education vs. salary dynamics, and track experience-based salary growth.
+This project provides a comprehensive data-driven view of organizational compensation. The dashboard enables HR leaders, compensation specialists, and business executives to analyze salary parity, evaluate geographic pay variations, examine education vs. salary dynamics, and track experience-based salary growth.
 
 ---
 
